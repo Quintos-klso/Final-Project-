@@ -1,5 +1,7 @@
 # Text Adventure Game: The Quest for the Crystal Key within a tower.
 
+
+---------------------------------------------------------------------------------------------------
 GAME_WORLD = {
     "entrance": {
         "description": "You stand at the entrance of an ancient castle. Stone walls loom above you.",
@@ -48,6 +50,8 @@ GAME_WORLD = {
     },
 }
 
+
+--------------------------------------------------------------------------------------------------------
 
 class Game:
     def __init__(self):
